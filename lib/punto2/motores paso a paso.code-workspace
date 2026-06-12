@@ -1,7 +1,8 @@
 {
 	"folders": [
 		{
-			"path": "../.."
+			"name": "guia de ejercicios digitales",
+			"path": "../../../guia de ejercicios digitales"
 		}
 	],
 	"settings": {}
